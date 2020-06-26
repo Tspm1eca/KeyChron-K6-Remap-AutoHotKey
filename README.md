@@ -1,4 +1,5 @@
 # KeyChron-K6-Remap-AutoHotKey
+No tray icon
 
 ## Remaps
 - Home -> Delete
