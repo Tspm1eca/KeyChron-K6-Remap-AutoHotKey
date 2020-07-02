@@ -20,8 +20,7 @@ No tray icon
 - CapsLock + "9" -> F9
 - CapsLock + "0" -> F10
 - CapsLock + "-" -> F11
-- CapsLock + "=" -> F12
-
+- CapsLock + "=" -> F12  
 - CapsLock + "i" -> Up
 - CapsLock + "j" -> Left
 - CapsLock + "k" -> Down
