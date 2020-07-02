@@ -21,7 +21,7 @@ No tray icon
 - CapsLock + "0" -> F10
 - CapsLock + "-" -> F11
 - CapsLock + "=" -> F12  
-
+＜/br＞
 - CapsLock + "i" -> Up
 - CapsLock + "j" -> Left
 - CapsLock + "k" -> Down
