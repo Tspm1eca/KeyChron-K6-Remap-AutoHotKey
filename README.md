@@ -22,3 +22,9 @@ No tray icon
 - CapsLock + "-" -> F11
 - CapsLock + "=" -> F12
 
+- CapsLock + "i" -> Up
+- CapsLock + "j" -> Left
+- CapsLock + "k" -> Down
+- CapsLock + "l" -> Right
+- CapsLock + "p" -> Home
+- CapsLock + ";" -> End
