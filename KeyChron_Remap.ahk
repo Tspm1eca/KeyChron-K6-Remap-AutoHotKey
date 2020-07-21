@@ -11,6 +11,7 @@ PgDn::End
 Delete::PgUp
 End::PgDn
 
+CapsLock & Escape::`
 CapsLock & 1::F1
 CapsLock & 2::F2
 CapsLock & 3::F3
@@ -30,3 +31,5 @@ CapsLock & k::Down
 CapsLock & l::Right
 CapsLock & p::Home
 CapsLock & `;::End
+CapsLock & [::Send !{Left}
+CapsLock & '::Send !{Right}
