@@ -31,5 +31,5 @@ CapsLock & k::Down
 CapsLock & l::Right
 CapsLock & p::Home
 CapsLock & `;::End
-CapsLock & [::Send !{Left}
-CapsLock & '::Send !{Right}
+CapsLock & u::Send !{Left}
+CapsLock & o::Send !{Right}
