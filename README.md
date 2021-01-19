@@ -28,5 +28,5 @@ No tray icon
 - CapsLock + "l" -> Right
 - CapsLock + "p" -> Home
 - CapsLock + ";" -> End
-- CapsLock + u -> Alt + >
-- CapsLock + o -> Alt + <
+- CapsLock + u -> Ctrl + >
+- CapsLock + o -> Ctrl + <
